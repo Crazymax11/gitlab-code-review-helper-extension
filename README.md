@@ -9,7 +9,7 @@ When you want to place a comment to code author, you can choose one of comment t
 - MAJOR - blocking issue
 - MINOR - code author decides should issue be resolved and which way or it's not needed to be resolved
 - QUESTION - it's not an issue, it's a question. Comment author asks code author to describe something.
-- SUGGESTION - commenter want to suggest different version of code. It can be combined with another type and can be replaced with [native gitlab suggestion feature](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/suggestions.html) (or combined with).
+- SUGGESTION - commenter want to suggest different version of code. It can be combined with another type and can be replaced with [native gitlab suggestion feature](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/suggestions.html) (or it can combined with this feature).
 - OFFTOP - something that isn't related to solution directly.
 
 Comments examples are presented below:
