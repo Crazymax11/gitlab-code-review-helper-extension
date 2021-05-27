@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "CodeReviewHelper",
-  "description": "CodeReviewHelper",
+  "name": "GitlabCodeReviewHelper",
+  "description": "GitlabCodeReviewHelper",
   "version": "1.0",
 
   "content_scripts": [
