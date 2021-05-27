@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "CodeReviewHelper",
+  "description": "CodeReviewHelper",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["https://gitlab.example.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}
